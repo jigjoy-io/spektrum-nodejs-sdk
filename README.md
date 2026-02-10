@@ -1,2 +1,2 @@
-# spektrum-nodejs-sdk
+# Spektrum Node.js SDK
 spektrum-nodejs
