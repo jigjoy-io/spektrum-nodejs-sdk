@@ -1,3 +1,3 @@
 # Spektrum Node.js SDK
 
-Spektrum is an SDK that lets developers generate applications on demand and integrate them into their products.
+Spektrum is a Vibe Coding SDK that generates applications from requests and returns a URL to the deployed app.
